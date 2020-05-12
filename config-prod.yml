@@ -1,0 +1,2 @@
+spring:
+  config: this is config-prod.yml content
